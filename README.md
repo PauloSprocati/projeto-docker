@@ -14,7 +14,8 @@ Siga os passos abaixo para construir e rodar a aplicação usando Docker:
 
 ### 🔧 1. Clonar o repositório
 ```bash
-
+git clone https://github.com/PauloSprocati/projeto-docker.git
+cd projeto-docker
 ```
 
 ### 🔧 2. Buildar a imagem do Docker
